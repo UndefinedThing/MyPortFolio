@@ -1,0 +1,102 @@
+{
+  "main": {
+    "name":"MyPortfolio",
+    "description":"Bonjour, je suis un étudiant en troisième années chez Ynov Campus. Je recherche actuellement une alternance ou un stage activement",
+    "image":"profilepic.jpg",
+    "bio":"Issue d'une filière général être simple utilisateur d'outils informatiques ne me suffisait plus. J'ai alors décidé de me mettre à la programmation. Depuis je m'épanouis. A travers les projets réalisé au sein de l'école, je confirme le choix de ce métier. D'un naturel ouvert et avenant, le travaille en équipe et le partage de connaissance est un moteur pour moi. Plus personnellement, je suis passionné par la culture nippone, les mangas, manhua et autres production littéraire de ce style. Je souhaite découvrir le Japon aux traverses de voyages me permettant de découvrir ce pays de mes yeux et non au travers d'un écran.",
+    "contactmessage":"Si tu souhaite faire connaissance hésite pas me contacter.",
+    "email": "martin.petit@ynov.com",
+    "phone": "0631153780",
+    "github":"https://github.com/UndefinedThing",
+    "project":"https://github.com/UndefinedThing/PokeChaton",
+    "address":{
+      "street":"12 ancienne route royale",
+      "city":"Vayres",
+      "state":"Gironde",
+      "zip": "33870"
+    },
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/martin-petit-404b541a1/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/UndefinedThing",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Voici quelques langages que je connais.",
+    "education":[
+      {
+        "school":"Ynov Campus",
+        "degree":"Cursus Master en informatique",
+        "graduated":"Fin d'études septembre 2024",
+        "description":"Apprentissage des bases du codages, appronfondissement des langages et des connaissances complémentaires."
+      },
+      {
+        "school":"Lycée Max Linder",
+        "degree":"Bac S",
+        "graduated":"Septembre 2018",
+        "description":"Bac général série S"
+      }
+    ],
+    "work":[
+      {
+        "company":"Boucherie Traditionnel Intermarché",
+        "title":"Emploie étudiant",
+        "years":"Juillet 2018 - Août 2018",
+        "description":"Mon tout premier emploi comme 'adulte'. Mes missions étais de servir les clients du rayon traditionnel, de préparer les commandes boucherie du 'drive', de mettre en rayon boucherie libre-service et de veiller à respecter les règles d'hygiène."
+      }
+    ],
+    "skills":[
+      {
+        "name":"PYTHON",
+        "level":"50%"
+      },
+      {
+        "name":"REACT",
+        "level":"60%"
+      },
+      {
+        "name":"JS",
+        "level":"50%"
+      },
+      {
+        "name":"C",
+        "level":"20%"
+      },
+      {
+        "name":"C++",
+        "level":"30%"
+      },
+      {
+        "name":"JAVA",
+        "level":"50%"
+      },
+      {
+        "name":"SQL",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Lemon",
+        "category":"Projet d'école d'app modile",
+        "image":"lemon-icon.jpg",
+        "url":"https://github.com/FlorianLeveil/TP_DEV_MOBIL"
+      },
+      {
+        "title":"HardShop",
+        "category":"(offline) Projet d'école d'e-shop de composant d'ordinateur",
+        "image":"hardshop-icon.jpg",
+        "url":"https://github.com/UndefinedThing/HardShop"
+      }
+    ]
+  }
+}
